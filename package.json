@@ -1,0 +1,30 @@
+{
+  "name": "modulos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "test",
+    "start": "webpack --watch --config dev.webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/programadorabordo/curso-javascript-fundamentos.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "eloilson",
+    "dos anjos"
+  ],
+  "author": "Eloilson dos Anjos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eloilsondosanjos/"
+  },
+  "homepage": "https://github.com/eloilsondosanjos/",
+  "devDependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
